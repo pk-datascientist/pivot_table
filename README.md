@@ -1,5 +1,5 @@
 # pivot_chart
-What is pivot table, why we use it, what is importance in pivot table, And more things about pivot table
+What is pivot chart, why we use it, what is importance in pivot table, And more things about pivot table
 
 what pivot charts are, how they work, and how you can leverage them to gain valuable insights from your data.
 
